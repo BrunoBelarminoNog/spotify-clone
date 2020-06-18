@@ -15,5 +15,4 @@ Segundo o Wikipedia: "Bootstrap é um framework web com código-fonte aberto par
 
 ## Prints: 
 
-<img src="./img/CapturarHomeFull.JPG" width="400px">
-<img src="./img/CapturarHomeMObile.JPG" width="200px">
+<img src="./img/CapturarHomeFull.JPG" width="400px"> <img src="./img/CapturarHomeMObile.JPG" width="200px">
